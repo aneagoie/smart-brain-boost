@@ -12,6 +12,7 @@ import Modal from './components/Modal/Modal';
 import './App.css';
 
 const particlesOptions = {
+  //customize to your own liking
   particles: {
     number: {
       value: 30,
