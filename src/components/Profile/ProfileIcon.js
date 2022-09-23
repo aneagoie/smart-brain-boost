@@ -18,7 +18,6 @@ class ProfileIcon extends React.Component {
   render() {
     return (
       <div className="pa4 tc">
-               
             <Dropdown isOpen={this.state.dropdownOpen} toggle={this.toggle} drop='left'>
               <DropdownToggle
                 tag="span"
