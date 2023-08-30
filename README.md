@@ -6,3 +6,4 @@ Final project for ZTM course - Advanced
 3. Run `npm start`
 
 *visist https://zerotomastery.io/ for more*
+
