@@ -10,7 +10,7 @@ import ImageLinkForm from './components/ImageLinkForm/ImageLinkForm';
 import Rank from './components/Rank/Rank';
 import Profile from './components/Profile/Profile';
 import Modal from './components/Modal/Modal';
-import './App.css';
+import './App.css'; 
 
 const initialState = {
   input: '',
